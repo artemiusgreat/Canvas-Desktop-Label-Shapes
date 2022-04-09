@@ -1,4 +1,4 @@
-# Canvas-Desktop-Label-Shapes
+# Canvas sample
 An example of using text as a shape on the chart in `Canvas.Views`
 
 # Preview
